@@ -8,7 +8,8 @@
 .card-title{
    font-size: 30px;margin-bottom: 0.5rem;line-height: 1.1;font-weight: 600;
 }
-   .info-container{display: flex;flex-direction: column;}
+   .info-container{display: flex;flex-direction: column;
+   background: palevioletred;}
 
 .info{text-align: center;margin-right: 100px;}
    
