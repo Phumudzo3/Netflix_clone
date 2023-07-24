@@ -1,4 +1,4 @@
-@media screen and (max-width:480px)  {
+@media screen and (max-width:700gipx)  {
    .nav img {
     position: relative;right: 120px;
     height: 50px;margin-bottom: 60px;
@@ -24,7 +24,7 @@ main{
     display: block;justify-content: center;
 }
 group{
-  position: relative;bottom: 200px;
+  position: relative;top:40px;
   text-align: center;
 }
 .get-started-form{

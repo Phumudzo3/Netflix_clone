@@ -11,13 +11,14 @@ html,body{
     overflow-x: hidden;
     font-family:'Open Sans', sans-serif;
 }
+/* header*/
 header{
     background-image: url(asset/Netflix-background.jpg);
     background-repeat: no-repeat;
     background-size:cover;
 height: 100vh;
 }
-
+/* nav-bar*/
 .nav{
    
     height: 80px;
@@ -46,6 +47,7 @@ color:#ffffff;
     margin-top: 8px;
     margin-right: 150px;
 border-radius: 3px;}
+/* within form element on nav-banner*/
 .get-started-form{
     height: 60px;display: block;
 }
@@ -101,6 +103,7 @@ border-radius: 10px;
     main h1{font-size: 50px;
         font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
     }
+    /* containers*/
     .info-container{
 background: black;
 display: flex;
@@ -131,7 +134,7 @@ border-top: 7px solid #232323;
                 border-bottom: 7px solid #232323;
                 
                     }
-        
+        /* within containers*/
     p{color: #ffffff;}
   
     .info{display: block;
@@ -312,6 +315,7 @@ margin-left: 120px}
     font-size: 20px;
     color: #2d2d2d;
 }
+/* section form*/
  .get-started-form1 input{
     height: 50px;width:450px;
         border-width: 1px;    
@@ -338,6 +342,7 @@ color: #ffffff;
 .info-container-2 main  form input{
     padding: 24px 16px 8px;
 }
+/* footer*/
 
 .footer-top{
 display: flex;
